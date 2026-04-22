@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35788f769f0a2364dab2106b68ac9d59, type: 3}
+  m_Name: _List
+  m_EditorClassIdentifier: 
+  _air: {fileID: 11400000, guid: 72cfdbb07dc61534eafd4db891e28d58, type: 2}
+  _dirt: {fileID: 11400000, guid: 5b63cb7f01fb7d2409422dbd56e53df4, type: 2}
+  _dirtWithGrass: {fileID: 11400000, guid: cf5e879172566ad488951864f865435c, type: 2}
+  _bedrock: {fileID: 11400000, guid: bac3657317ee0b542af09188ec70e2ad, type: 2}
+  _stone: {fileID: 11400000, guid: 3751641048bfd0a4daeeb7150e1acbe7, type: 2}
+  _treeTrunk: {fileID: 11400000, guid: 1b86d5ea7628af647820092696aaff43, type: 2}

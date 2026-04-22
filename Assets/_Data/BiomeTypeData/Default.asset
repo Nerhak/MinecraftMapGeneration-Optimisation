@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10ee751c624a87446a827db8dbaa8dd8, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  _biomeType: 0
+  _surfaceHeightMin: 100
+  _surfaceHeightMax: 150
+  _surfaceFrequency: 0.01
+  _surfaceAmplitude: 1
+  _surfaceOctaves: 1
+  _surfacePersistence: 1
+  _caveFrequency: 0.1
+  _caveAmplitude: 1
+  _caveOctaves: 1
+  _cavePersistence: 0.05
+  _caveProbability: 0.4
