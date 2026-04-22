@@ -1,1 +1,1 @@
-A personal project I started to get familiar with C#, the Unity ecosystem and 3D voxel map generation algorithms used in games like Minecraft.
+A personal project I started to become familiar with C#, the Unity ecosystem, and 3D voxel map generation algorithms used in games like Minecraft, while also working to improve my understanding of the SOLID principles I was learning about.
